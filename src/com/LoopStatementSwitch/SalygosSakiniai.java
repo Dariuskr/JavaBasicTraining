@@ -2,9 +2,7 @@ package com.LoopStatementSwitch;
 
 import java.util.Scanner;
 
-/**
- * Created by Max on 2017.03.06.
- */
+
 public class SalygosSakiniai {
     public void Uzduotysv2() {
         Scanner skaneris = new Scanner(System.in);
@@ -19,3 +17,4 @@ public class SalygosSakiniai {
         }
     }
 }
+

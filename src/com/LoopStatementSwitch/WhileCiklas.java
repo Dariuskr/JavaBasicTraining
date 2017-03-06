@@ -2,9 +2,7 @@ package com.LoopStatementSwitch;
 
 import java.util.Scanner;
 
-/**
- * Created by Max on 2017.03.06.
- */
+
 public class WhileCiklas {
 
     public void Nesibaigiantis() {
@@ -19,3 +17,4 @@ public class WhileCiklas {
 
     }
 }
+

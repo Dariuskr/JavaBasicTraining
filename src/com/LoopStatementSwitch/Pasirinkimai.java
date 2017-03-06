@@ -2,9 +2,7 @@ package com.LoopStatementSwitch;
 
 import java.util.Scanner;
 
-/**
- * Created by Max on 2017.03.06.
- */
+
 public class Pasirinkimai {
 
     public void switchas(){
@@ -27,6 +25,7 @@ public class Pasirinkimai {
                 default: System.out.println ("Jusų pasirinkimas yra klaidingas");
                 break;
         }
+
 
     }
 }

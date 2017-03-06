@@ -3,12 +3,11 @@ package com.LoopStatementSwitch;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
-/**
- * Created by Max on 2017.03.06.
- */
+
 public class Ciklas0 {
 
     public void paskaiciuok() {
+
 
         int x = -1;
         System.out.println("Iveskite skaiciu");
