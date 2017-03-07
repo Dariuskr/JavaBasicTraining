@@ -1,6 +1,10 @@
 package com.Pamokos;
 
 import com.Masyvai.Masyvas;
+import com.Masyvai.Masyvas1;
+import com.Masyvai.StringMasyvas;
+
+import java.util.Scanner;
 
 
 public class Main {
@@ -22,11 +26,19 @@ public class Main {
        // Ilgis apskaičiuokIlgi = new Ilgis();
        // apskaičiuokIlgi.Ilgiss();
 
-        Masyvas duombazė = new Masyvas();
-        duombazė.arr();
+      //  Masyvas duombazė = new Masyvas();
+       // duombazė.arr();
+       // StringMasyvas funkcija = new StringMasyvas();
+      //  funkcija.zodziai();
 
+       // Masyvas1 uzduotis1_7 = new Masyvas1();
+       // Scanner sk = new Scanner(System.in);
+       // System.out.println("Iveskite skaicių  ");
 
-
+       // StringMasyvas uzduotele1_6 = new StringMasyvas();
+       // uzduotele1_6.Stringas(sk.nextInt());
+       // uzduotis1_7.Nuskaityti(sk.nextInt());
+       // uzduotis1_7.suskaiciuoti();
 
 
 
