@@ -1,12 +1,6 @@
 package com.Pamokos;
 
-import com.LoopStatementSwitch.Ciklas0;
-import com.LoopStatementSwitch.Pasirinkimai;
-import com.LoopStatementSwitch.WhileCiklas;
-import com.com.Masyvai.Masyvas;
-import com.uzduotis0.HelloWorld;
-import com.LoopStatementSwitch.SalygosSakiniai;
-import com.uzduotis1.Ilgis;
+import com.Masyvai.Masyvas;
 
 
 public class Main {

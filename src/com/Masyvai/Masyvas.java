@@ -1,4 +1,4 @@
-package com.com.Masyvai;
+package com.Masyvai;
 
 
 import java.lang.reflect.Array;
