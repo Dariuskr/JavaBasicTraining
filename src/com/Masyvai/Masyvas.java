@@ -17,7 +17,7 @@ public class Masyvas {
         x[0] = ska.nextInt();
         x[1] = ska.nextInt();
         x[2] = ska.nextInt();
-        x[3] = ska.nextInt();
+        x[3] = ska.nextInt();// ka cia pridirbai? 
         x[4] = ska.nextInt();
 
     for (int i = 0 ; i < x.length; i++ ) {
