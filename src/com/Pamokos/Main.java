@@ -3,6 +3,7 @@ package com.Pamokos;
 import com.LoopStatementSwitch.Ciklas0;
 import com.LoopStatementSwitch.Pasirinkimai;
 import com.LoopStatementSwitch.WhileCiklas;
+import com.com.Masyvai.Masyvas;
 import com.uzduotis0.HelloWorld;
 import com.LoopStatementSwitch.SalygosSakiniai;
 import com.uzduotis1.Ilgis;
@@ -24,8 +25,11 @@ public class Main {
        // Ciklas0 cikliukas = new Ciklas0();
        // cikliukas.paskaiciuok();
 
-        Ilgis apskaičiuokIlgi = new Ilgis();
-        apskaičiuokIlgi.Ilgiss();
+       // Ilgis apskaičiuokIlgi = new Ilgis();
+       // apskaičiuokIlgi.Ilgiss();
+
+        Masyvas duombazė = new Masyvas();
+        duombazė.arr();
 
 
 
